@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "rackets",
+  "info": {
+    "singularName": "racket",
+    "pluralName": "rackets",
+    "displayName": "Racket"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "brand": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "stringPattern": {
+      "type": "string"
+    },
+    "grip": {
+      "type": "string"
+    },
+    "weight": {
+      "type": "string"
+    },
+    "balance": {
+      "type": "string"
+    },
+    "stiffness": {
+      "type": "string"
+    },
+    "swingWeight": {
+      "type": "string"
+    }
+  }
+}
